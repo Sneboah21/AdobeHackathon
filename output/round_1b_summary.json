@@ -3,10 +3,10 @@
   "persona": "Avionics Systems Engineer specializing in Aircraft Digital Systems and Flight Deck Technologies",
   "job_to_be_done": "Extract system architecture details, design methodologies, and integration approaches for comprehensive literature review on modern avionics systems, digital flight controls, and cockpit display technologies",
   "total_documents": 1,
-  "processing_time": 4.377526760101318,
+  "processing_time": 3.2657625675201416,
   "sections_found": 15,
   "subsections_found": 2,
   "performance_target_met": true,
   "status": "success",
-  "timestamp": "2025-07-28 13:24:22"
+  "timestamp": "2025-07-28 21:19:53"
 }

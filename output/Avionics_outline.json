@@ -2,13 +2,13 @@
   "title": "Introduction to Avionics",
   "outline": [
     {
-      "level": "H1",
-      "text": "INTRODUCTION TO AVIONICS",
+      "level": "H3",
+      "text": "Introduction to Avionics",
       "page": 1
     },
     {
-      "level": "H2",
-      "text": "INTRODUCTION",
+      "level": "H1",
+      "text": "INTRODUCTION TO AVIONICS",
       "page": 1
     },
     {
@@ -27,6 +27,11 @@
       "page": 2
     },
     {
+      "level": "H3",
+      "text": "Introduction to Avionics",
+      "page": 3
+    },
+    {
       "level": "H2",
       "text": "Communication System",
       "page": 3
@@ -34,11 +39,6 @@
     {
       "level": "H2",
       "text": "Long Range Communication – High Frequency",
-      "page": 3
-    },
-    {
-      "level": "H2",
-      "text": "Military Aircraft – Ultra High Frequency (250 – 400",
       "page": 3
     },
     {
@@ -70,6 +70,11 @@
       "level": "H2",
       "text": "Calibrated Airspeed",
       "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Introduction to Avionics",
+      "page": 5
     },
     {
       "level": "H2",
@@ -137,6 +142,11 @@
       "page": 6
     },
     {
+      "level": "H3",
+      "text": "Introduction to Avionics",
+      "page": 7
+    },
+    {
       "level": "H2",
       "text": "Task Automation Systems",
       "page": 7
@@ -182,18 +192,13 @@
       "page": 8
     },
     {
-      "level": "H2",
-      "text": "Inertial Navigation System, Air Data System, Forward Looking",
+      "level": "H3",
+      "text": "Introduction to Avionics",
       "page": 9
     },
     {
       "level": "H2",
       "text": "Communication Systems",
-      "page": 9
-    },
-    {
-      "level": "H2",
-      "text": "It is a digital datalink system for transmission of short",
       "page": 9
     },
     {
@@ -237,18 +242,18 @@
       "page": 10
     },
     {
+      "level": "H3",
+      "text": "Introduction to Avionics",
+      "page": 11
+    },
+    {
       "level": "H2",
       "text": "System Architectures",
       "page": 12
     },
     {
-      "level": "H2",
-      "text": "AVIONICS",
-      "page": 13
-    },
-    {
-      "level": "H2",
-      "text": "SYSTEM",
+      "level": "H3",
+      "text": "Introduction to Avionics",
       "page": 13
     },
     {
@@ -262,12 +267,17 @@
       "page": 14
     },
     {
-      "level": "H2",
-      "text": "QUESTIONS",
-      "page": 18
+      "level": "H3",
+      "text": "Introduction to Avionics",
+      "page": 15
     },
     {
-      "level": "H2",
+      "level": "H3",
+      "text": "Introduction to Avionics",
+      "page": 17
+    },
+    {
+      "level": "H4",
       "text": "1. What is meant by avionics and write short notes on need",
       "page": 18
     },
@@ -317,6 +327,11 @@
       "page": 18
     },
     {
+      "level": "H3",
+      "text": "Introduction to Avionics",
+      "page": 19
+    },
+    {
       "level": "H2",
       "text": "1. Explain the need of avionics in Civil and military aircrafts.",
       "page": 19
@@ -327,7 +342,7 @@
       "page": 19
     },
     {
-      "level": "H2",
+      "level": "H4",
       "text": "3. What are the major design drivers for avionics system and",
       "page": 19
     },
@@ -367,6 +382,11 @@
       "page": 20
     },
     {
+      "level": "H3",
+      "text": "Introduction to Avionics",
+      "page": 21
+    },
+    {
       "level": "H2",
       "text": "Binary number system",
       "page": 21
@@ -387,17 +407,12 @@
       "page": 21
     },
     {
-      "level": "H2",
+      "level": "H3",
       "text": "1. Binary to Octal Conversion",
       "page": 21
     },
     {
-      "level": "H2",
-      "text": "Example: (11101100) 2",
-      "page": 22
-    },
-    {
-      "level": "H2",
+      "level": "H3",
       "text": "2. Octal to Binary Conversion",
       "page": 22
     },
@@ -407,13 +422,8 @@
       "page": 22
     },
     {
-      "level": "H2",
+      "level": "H3",
       "text": "3. Binary to Hexadecimal Conversion",
-      "page": 22
-    },
-    {
-      "level": "H2",
-      "text": "Example: (1 1 0 1 1 0 0 0 1 0 0 1 0 1 1 ) 2",
       "page": 22
     },
     {
@@ -422,17 +432,17 @@
       "page": 22
     },
     {
-      "level": "H2",
+      "level": "H3",
       "text": "4. Hexadecimal to Binary Conversion",
       "page": 22
     },
     {
-      "level": "H2",
-      "text": "3 F D",
+      "level": "H3",
+      "text": "Introduction to Avionics",
       "page": 23
     },
     {
-      "level": "H2",
+      "level": "H3",
       "text": "5. Octal to Hexadecimal conversion",
       "page": 23
     },
@@ -447,17 +457,7 @@
       "page": 23
     },
     {
-      "level": "H2",
-      "text": "Example: (615) 8",
-      "page": 23
-    },
-    {
-      "level": "H2",
-      "text": "1 8 D",
-      "page": 23
-    },
-    {
-      "level": "H2",
+      "level": "H3",
       "text": "6. Hexadecimal to Octal conversion",
       "page": 23
     },
@@ -478,31 +478,26 @@
     },
     {
       "level": "H2",
-      "text": "2 5 B",
-      "page": 23
-    },
-    {
-      "level": "H2",
       "text": "STUDY OF BASIC GATES",
       "page": 24
     },
     {
-      "level": "H2",
-      "text": "THEORY",
-      "page": 24
-    },
-    {
-      "level": "H2",
+      "level": "H3",
       "text": "AND GATE",
       "page": 24
     },
     {
-      "level": "H2",
+      "level": "H3",
+      "text": "Introduction to Avionics",
+      "page": 25
+    },
+    {
+      "level": "H3",
       "text": "TRUTH TABLE",
       "page": 25
     },
     {
-      "level": "H2",
+      "level": "H3",
       "text": "OR GATE",
       "page": 25
     },
@@ -512,47 +507,57 @@
       "page": 25
     },
     {
-      "level": "H2",
+      "level": "H3",
       "text": "TRUTH TABLE",
       "page": 26
     },
     {
-      "level": "H2",
+      "level": "H3",
       "text": "NOT GATE",
       "page": 26
     },
     {
-      "level": "H2",
+      "level": "H3",
+      "text": "Introduction to Avionics",
+      "page": 27
+    },
+    {
+      "level": "H3",
       "text": "TRUTH TABLE",
       "page": 27
     },
     {
-      "level": "H2",
+      "level": "H3",
       "text": "NAND GATE",
       "page": 27
     },
     {
-      "level": "H2",
+      "level": "H3",
       "text": "TRUTH TABLE",
       "page": 28
     },
     {
-      "level": "H2",
+      "level": "H3",
       "text": "NOR GATE",
       "page": 28
     },
     {
-      "level": "H2",
+      "level": "H3",
+      "text": "Introduction to Avionics",
+      "page": 29
+    },
+    {
+      "level": "H3",
       "text": "TRUTH TABLE",
       "page": 29
     },
     {
-      "level": "H2",
+      "level": "H3",
       "text": "EX-OR GATE",
       "page": 29
     },
     {
-      "level": "H2",
+      "level": "H3",
       "text": "TRUTH TABLE",
       "page": 30
     },
@@ -572,13 +577,13 @@
       "page": 30
     },
     {
-      "level": "H2",
-      "text": "ARITHMETIC LOGIC UNIT",
+      "level": "H3",
+      "text": "Introduction to Avionics",
       "page": 31
     },
     {
       "level": "H2",
-      "text": "REGISTER ARRAY",
+      "text": "ARITHMETIC LOGIC UNIT",
       "page": 31
     },
     {
@@ -588,43 +593,23 @@
     },
     {
       "level": "H2",
-      "text": "INSTRUCTION",
-      "page": 32
-    },
-    {
-      "level": "H2",
-      "text": "REGISTER",
-      "page": 32
-    },
-    {
-      "level": "H2",
-      "text": "INSTRUCTION",
-      "page": 32
-    },
-    {
-      "level": "H2",
-      "text": "DECODE",
-      "page": 32
-    },
-    {
-      "level": "H2",
       "text": "ADDRESS BUS, CONTROL BUS and DATA BUS",
       "page": 32
     },
     {
-      "level": "H2",
-      "text": "The address bus is required for the microprocessor",
-      "page": 32
-    },
-    {
-      "level": "H2",
-      "text": "The control bus is used for sending the control",
-      "page": 32
+      "level": "H3",
+      "text": "Introduction to Avionics",
+      "page": 33
     },
     {
       "level": "H2",
       "text": "Architecture of 8085 Microprocessor",
       "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "Introduction to Avionics",
+      "page": 35
     },
     {
       "level": "H2",
@@ -639,11 +624,6 @@
     {
       "level": "H2",
       "text": "1. The microprocessor generates the address of the",
-      "page": 36
-    },
-    {
-      "level": "H2",
-      "text": "2. Using the control bus, the microprocessor sends a",
       "page": 36
     },
     {
@@ -682,6 +662,11 @@
       "page": 36
     },
     {
+      "level": "H3",
+      "text": "Introduction to Avionics",
+      "page": 37
+    },
+    {
       "level": "H2",
       "text": "MEMORY",
       "page": 37
@@ -690,6 +675,11 @@
       "level": "H2",
       "text": "CLASSIFICATION OF MEMORIES",
       "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "Introduction to Avionics",
+      "page": 39
     },
     {
       "level": "H2",
@@ -713,11 +703,6 @@
     },
     {
       "level": "H2",
-      "text": "EE-PROM",
-      "page": 40
-    },
-    {
-      "level": "H2",
       "text": "Flash Memory",
       "page": 40
     },
@@ -725,6 +710,11 @@
       "level": "H2",
       "text": "DIGITAL COMPUTER",
       "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "Introduction to Avionics",
+      "page": 41
     },
     {
       "level": "H2",
@@ -737,8 +727,8 @@
       "page": 42
     },
     {
-      "level": "H2",
-      "text": "QUESTIONS",
+      "level": "H3",
+      "text": "Introduction to Avionics",
       "page": 43
     },
     {
@@ -747,12 +737,12 @@
       "page": 43
     },
     {
-      "level": "H2",
+      "level": "H4",
       "text": "1. What are digital computers?",
       "page": 43
     },
     {
-      "level": "H2",
+      "level": "H4",
       "text": "2. What is a volatile memory and give examples?",
       "page": 43
     },
@@ -777,7 +767,7 @@
       "page": 43
     },
     {
-      "level": "H2",
+      "level": "H4",
       "text": "7. What is Accumulator?",
       "page": 43
     },
@@ -792,7 +782,7 @@
       "page": 43
     },
     {
-      "level": "H2",
+      "level": "H4",
       "text": "10. What is meant by fetching?",
       "page": 43
     },
@@ -832,9 +822,9 @@
       "page": 44
     },
     {
-      "level": "H2",
-      "text": "Introduction",
-      "page": 44
+      "level": "H3",
+      "text": "Introduction to Avionics",
+      "page": 45
     },
     {
       "level": "H2",
@@ -845,6 +835,16 @@
       "level": "H2",
       "text": "CRT Displays",
       "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "Introduction to Avionics",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "Introduction to Avionics",
+      "page": 49
     },
     {
       "level": "H2",

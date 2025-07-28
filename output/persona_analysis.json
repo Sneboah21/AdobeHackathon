@@ -16,80 +16,80 @@
     },
     {
       "document": "Avionics.pdf",
-      "page_number": 44,
-      "section_title": "FLIGHT DECK AND COCKPITS",
-      "importance_rank": 2
-    },
-    {
-      "document": "Avionics.pdf",
       "page_number": 8,
       "section_title": "INTEGRATED AVIONICS SYSTEM",
-      "importance_rank": 3
+      "importance_rank": 2
     },
     {
       "document": "Avionics.pdf",
       "page_number": 10,
       "section_title": "Control Weapon Launch / Firing",
-      "importance_rank": 4
+      "importance_rank": 3
     },
     {
       "document": "Avionics.pdf",
       "page_number": 3,
       "section_title": "Communication System",
-      "importance_rank": 5
+      "importance_rank": 4
     },
     {
       "document": "Avionics.pdf",
       "page_number": 40,
       "section_title": "DIGITAL COMPUTER",
-      "importance_rank": 6
+      "importance_rank": 5
     },
     {
       "document": "Avionics.pdf",
       "page_number": 12,
       "section_title": "System Architectures",
-      "importance_rank": 7
+      "importance_rank": 6
     },
     {
       "document": "Avionics.pdf",
       "page_number": 20,
       "section_title": "PRINCIPLES OF DIGITAL SYSTEMS",
-      "importance_rank": 8
+      "importance_rank": 7
     },
     {
       "document": "Avionics.pdf",
       "page_number": 1,
       "section_title": "INTRODUCTION TO AVIONICS",
-      "importance_rank": 9
+      "importance_rank": 8
     },
     {
       "document": "Avionics.pdf",
       "page_number": 13,
       "section_title": "Figure1.2 System Development Cycle",
-      "importance_rank": 10
+      "importance_rank": 9
     },
     {
       "document": "Avionics.pdf",
       "page_number": 13,
       "section_title": "APPLICATION",
-      "importance_rank": 11
+      "importance_rank": 10
     },
     {
       "document": "Avionics.pdf",
       "page_number": 6,
       "section_title": "Infrared Systems",
-      "importance_rank": 12
+      "importance_rank": 11
     },
     {
       "document": "Avionics.pdf",
       "page_number": 3,
       "section_title": "Flight Control System",
-      "importance_rank": 13
+      "importance_rank": 12
     },
     {
       "document": "Avionics.pdf",
       "page_number": 30,
       "section_title": "MICROPROCESSOR",
+      "importance_rank": 13
+    },
+    {
+      "document": "Avionics.pdf",
+      "page_number": 44,
+      "section_title": "MFDS, HUD, MFK, HOTAS, HMD.",
       "importance_rank": 14
     },
     {
