@@ -1,0 +1,20 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Output directories
+/src/output/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db

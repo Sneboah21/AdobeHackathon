@@ -1,0 +1,7 @@
+{
+  "title": "Error processing AIoT_Smart_Home_via_Autonomous_LLM_Agents.pdf",
+  "outline": [],
+  "error": "'HeadingExtractor' object has no attribute 'validator'",
+  "processing_time": 0.0905308723449707,
+  "timestamp": "2025-07-25 17:19:53"
+}

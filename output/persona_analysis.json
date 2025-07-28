@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Avionics.pdf"
+    ],
+    "persona": "Avionics Systems Engineer specializing in Aircraft Digital Systems and Flight Deck Technologies",
+    "job_to_be_done": "Extract system architecture details, design methodologies, and integration approaches for comprehensive literature review on modern avionics systems, digital flight controls, and cockpit display technologies",
+    "processing_timestamp": "2024-01-01T00:00:00Z"
+  },
+  "extracted_sections": [
+    {
+      "document": "Avionics.pdf",
+      "page_number": 7,
+      "section_title": "Task Automation Systems",
+      "importance_rank": 1
+    },
+    {
+      "document": "Avionics.pdf",
+      "page_number": 44,
+      "section_title": "FLIGHT DECK AND COCKPITS",
+      "importance_rank": 2
+    },
+    {
+      "document": "Avionics.pdf",
+      "page_number": 8,
+      "section_title": "INTEGRATED AVIONICS SYSTEM",
+      "importance_rank": 3
+    },
+    {
+      "document": "Avionics.pdf",
+      "page_number": 10,
+      "section_title": "Control Weapon Launch / Firing",
+      "importance_rank": 4
+    },
+    {
+      "document": "Avionics.pdf",
+      "page_number": 3,
+      "section_title": "Communication System",
+      "importance_rank": 5
+    },
+    {
+      "document": "Avionics.pdf",
+      "page_number": 40,
+      "section_title": "DIGITAL COMPUTER",
+      "importance_rank": 6
+    },
+    {
+      "document": "Avionics.pdf",
+      "page_number": 12,
+      "section_title": "System Architectures",
+      "importance_rank": 7
+    },
+    {
+      "document": "Avionics.pdf",
+      "page_number": 20,
+      "section_title": "PRINCIPLES OF DIGITAL SYSTEMS",
+      "importance_rank": 8
+    },
+    {
+      "document": "Avionics.pdf",
+      "page_number": 1,
+      "section_title": "INTRODUCTION TO AVIONICS",
+      "importance_rank": 9
+    },
+    {
+      "document": "Avionics.pdf",
+      "page_number": 13,
+      "section_title": "Figure1.2 System Development Cycle",
+      "importance_rank": 10
+    },
+    {
+      "document": "Avionics.pdf",
+      "page_number": 13,
+      "section_title": "APPLICATION",
+      "importance_rank": 11
+    },
+    {
+      "document": "Avionics.pdf",
+      "page_number": 6,
+      "section_title": "Infrared Systems",
+      "importance_rank": 12
+    },
+    {
+      "document": "Avionics.pdf",
+      "page_number": 3,
+      "section_title": "Flight Control System",
+      "importance_rank": 13
+    },
+    {
+      "document": "Avionics.pdf",
+      "page_number": 30,
+      "section_title": "MICROPROCESSOR",
+      "importance_rank": 14
+    },
+    {
+      "document": "Avionics.pdf",
+      "page_number": 5,
+      "section_title": "Navigation System",
+      "importance_rank": 15
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Avionics.pdf",
+      "refined_text": "Task Automation Systems These systems reduce the crew workload and enable minimum crew operation. Navigation Management System It comprises the operation of all radio navigation aid systems and the combination of data from all navigation sources such as GPS and INS systems, to provide the best estimation of the aircraft position and ground speed. Autopilots and Flight Management Systems The autopilot relieves the pilot in long range mission",
+      "page_number": 7
+    },
+    {
+      "document": "Avionics.pdf",
+      "refined_text": "ARINC defines systems and equipment specifications in terms of functional requirements and physical dimensions and electrical interfaces. INTEGRATED AVIONICS and WEAPON SYSTEM The Avionics and Weapon System (AWS) in any modern day fighter aircraft enables the pilot to perform various mission functions. Introduction to Avionics 9 Functional requirements of AWS are, (i) Receive Inputs from sensors, communication systems, Radio navigation systems, Identification system, Missiles, Electronic counter measures system, Pilot controls",
+      "page_number": 8
+    }
+  ]
+}

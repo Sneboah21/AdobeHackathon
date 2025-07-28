@@ -1,0 +1,80 @@
+{
+  "title": "AIoT Smart Home via Autonomous LLM Agents",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "I. INTRODUCTION",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "II. RELATED WORK",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "A. Home Automation",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "B. Autonomous Agents",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "III. SYSTEM OVERVIEW",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "A. Personalization",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "IV. TOOLS",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "B. Device Interaction",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "C. Monitoring",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "V. EXECUTION EXAMPLE",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "VI. EVALUATION",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "A. Baselines",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "VII. RESULTS",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "A. Failure Analysis",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "IX. CONCLUSION",
+      "page": 13
+    }
+  ]
+}

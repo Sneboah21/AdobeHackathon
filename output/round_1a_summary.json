@@ -1,0 +1,17 @@
+{
+  "round": "1A",
+  "total_files": 1,
+  "successful_files": 1,
+  "average_processing_time": 4.372865200042725,
+  "total_processing_time": 4.372865200042725,
+  "performance_target_met": false,
+  "results": [
+    {
+      "file": "Avionics.pdf",
+      "processing_time": 4.372865200042725,
+      "headings_found": 171,
+      "status": "success"
+    }
+  ],
+  "timestamp": "2025-07-28 13:24:17"
+}

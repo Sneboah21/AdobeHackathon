@@ -1,0 +1,860 @@
+{
+  "title": "Introduction to Avionics",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "INTRODUCTION TO AVIONICS",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "INTRODUCTION",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "NEED FOR AVIONICS",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "CORE AVIONICS SYSTEMS",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Display System",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Communication System",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Long Range Communication – High Frequency",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Military Aircraft – Ultra High Frequency (250 – 400",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Data Entry and Control System",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Flight Control System",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Roll Auto Stabilizer System",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Pitch Auto Stabilizer System",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Aircraft State Sensor Systems",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Calibrated Airspeed",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "True Airspeed",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Mach Number",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Airstream Incidence Angle.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Inertial Reference System",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Navigation System",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": " Dead Reckoning Systems",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": " Position Fixing Systems",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Types of DR Navigation systems are,",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Radio Navigation Systems: (Position Fixing Systems)",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Outside World Sensor Systems",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Radar Systems",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Fighter Aircrafts Radars",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Infrared Systems",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Task Automation Systems",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Navigation Management System",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Autopilots and Flight Management Systems",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Flight Planning",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Navigation Management",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Engine Control and Management",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "House Keeping Management",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "INTEGRATED AVIONICS SYSTEM",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "INTEGRATED AVIONICS and WEAPON SYSTEM",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Inertial Navigation System, Air Data System, Forward Looking",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Communication Systems",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "It is a digital datalink system for transmission of short",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Radio Navigation System",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Identification System",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Electronic Counter Measures Systems",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Pilot Controls",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Parameters for Navigation and Fire control",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Fire Control Algorithms – Weapon Aiming, Missile",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Control Weapon Launch / Firing",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "AVIONICS SYSTEM DESIGN",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "System Architectures",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "AVIONICS",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "SYSTEM",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "System Requirements",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "“ILITIES” OF AVIONICS SYSTEM",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "QUESTIONS",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "1. What is meant by avionics and write short notes on need",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "2. List out the advantage of using avionics in civil aircraft.",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "3. Give the advantages of using avionics in military aircraft.",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "4. Give the general advantage of Avionics over the",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "5. Discuss the usage of avionics in space systems.",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "6. Give few examples of integrated avionics system used in",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "7. Give few examples of integrated avionics system used in",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "8. Provide the “illities” of Avionics system.",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "9. Give various systems where the avionics used in aircrafts.",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "10. Bestow the steps involved in design of avionics system.",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "1. Explain the need of avionics in Civil and military aircrafts.",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "2. Explain few Integrated Avionics system and weapon",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "3. What are the major design drivers for avionics system and",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "4. With a neat block diagram explain the integration of",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "5. Explain clearly the top down design procedure that is",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "6. Explain the various layers of Avionics systems used in a",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "7. Explain the design and technologies involved in avionics",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "PRINCIPLES OF DIGITAL SYSTEMS",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "NUMBER SYSTEM",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Decimal number system",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Binary number system",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Octal number system",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Hexadecimal number system",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "NUMBER SYSTEM CONVERSION",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "1. Binary to Octal Conversion",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "Example: (11101100) 2",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "2. Octal to Binary Conversion",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Example: (754) 8 7 5 4",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "3. Binary to Hexadecimal Conversion",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Example: (1 1 0 1 1 0 0 0 1 0 0 1 0 1 1 ) 2",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "D 8 9 B",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "4. Hexadecimal to Binary Conversion",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "3 F D",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "5. Octal to Hexadecimal conversion",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "1. Convert octal number to its binary equivalent",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "2. Convert binary number to its hexadecimal equivalent",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Example: (615) 8",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "1 8 D",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "6. Hexadecimal to Octal conversion",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "1. Convert hexadecimal number to its binary equivalent",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "2. Convert binary number to its octal equivalent",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Example: 25B H",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "2 5 B",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "STUDY OF BASIC GATES",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "THEORY",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "AND GATE",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "TRUTH TABLE",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "OR GATE",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "B. Hence even if anyone of input is one or both input are one",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "TRUTH TABLE",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "NOT GATE",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "TRUTH TABLE",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "NAND GATE",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "TRUTH TABLE",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "NOR GATE",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "TRUTH TABLE",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "EX-OR GATE",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "TRUTH TABLE",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "MICROPROCESSOR",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "Architecture of 8085 Microprocessor",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "Arithmetic Logic Unit",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "ARITHMETIC LOGIC UNIT",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "REGISTER ARRAY",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "TIMING AND CONTROL",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "INSTRUCTION",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "REGISTER",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "INSTRUCTION",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "DECODE",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "ADDRESS BUS, CONTROL BUS and DATA BUS",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "The address bus is required for the microprocessor",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "The control bus is used for sending the control",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "Architecture of 8085 Microprocessor",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "WORKING PRINCIPLE OF MICROPROCESSOR",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "2.9. Similarly the input and output devices are also connected",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "1. The microprocessor generates the address of the",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "2. Using the control bus, the microprocessor sends a",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "3. In response to this signal the memory sends one",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "1. Inside the microprocessor, the instruction sent by the",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "2. The instruction decode block of the instruction to",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "3. Timing and control unit generates the timing control",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "1. The corresponding port is enabled by sending the",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "2. Suitable control signal is sent on the control bus.",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "3. The data is transferred on the data bus.",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "MEMORY",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "CLASSIFICATION OF MEMORIES",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "Read/Write Memory",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "DRAM",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "PROM",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "EPROM",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "EE-PROM",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "Flash Memory",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "DIGITAL COMPUTER",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "Processing Data",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "Analog Computers",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "QUESTIONS",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Part – A",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "1. What are digital computers?",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "2. What is a volatile memory and give examples?",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "3. Differentiate between volatile and non volatile memories.",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "4. Write short notes about 8085 microprocessor.",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "5. Give the usage of microprocessors in Avionics system.",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "6. Write notes about the registers in microprocessor.",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "7. What is Accumulator?",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "8. List the types of memories.",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "9. Bestow the major components of microprocessor.",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "10. What is meant by fetching?",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "Part – B",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "1. With a neat sketch explain 8085 microprocessor",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "2. Draw the functional representation of ROM memory cell",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "3. Describe with a block schematic how a digital computer",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "4. Explain the interference of seven segment LED with the",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "5. Compare the memory mapped I/O and peripheral",
+      "page": 43
+    },
+    {
+      "level": "H1",
+      "text": "FLIGHT DECK AND COCKPITS",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "Introduction",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "High Resolution",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "CRT Displays",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "Colour Displays",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "CRT Control",
+      "page": 50
+    }
+  ]
+}

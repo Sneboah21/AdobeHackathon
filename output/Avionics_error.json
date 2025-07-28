@@ -1,0 +1,7 @@
+{
+  "title": "Error processing Avionics.pdf",
+  "outline": [],
+  "error": "'HeadingExtractor' object has no attribute 'validator'",
+  "processing_time": 0.14313507080078125,
+  "timestamp": "2025-07-28 12:20:36"
+}
